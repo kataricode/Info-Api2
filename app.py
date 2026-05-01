@@ -25,7 +25,7 @@ JWT_CREDENTIALS = {
     "PK":  {"uid": "4363456802", "password": "PK_PASSWORD"},
     "TH":  {"uid": "4363456802", "password": "PK_PASSWORD"},
     "BR":  {"uid": "4363456802", "password": "PK_PASSWORD"},
-    "VN":  {"uid": "4363456802", "password": "PK_PASSWORD"},
+    "VN":  {"uid": "4403616633", "password": "F3A0DB3AD065FB567D6D86AF8DE34C46CB08EC3F0A228E90137B411FD5273BBA"},
     "SAC":  {"uid": "4363456802", "password": "PK_PASSWORD"},
     "ID":  {"uid": "4363456802", "password": "PK_PASSWORD"},
 }
